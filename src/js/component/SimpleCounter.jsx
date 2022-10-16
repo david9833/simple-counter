@@ -42,4 +42,3 @@ setInterval(function() {
         ReactDOM.render(<SimpleCounter digitOne={one} digitTwo={two} digitThree={three} digitFour={four}/>, document.getElementById("app"));
 
 },1000)
-
